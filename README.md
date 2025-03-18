@@ -22,6 +22,7 @@ A first-person shooter game inspired by the classic DOOM, built using Python and
    ```sh
    python main.py
    ```
+3. Unzip resources folder
 
 ## Controls
 
