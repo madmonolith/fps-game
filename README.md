@@ -6,10 +6,11 @@ A first-person shooter game inspired by the classic DOOM, built using Python and
 ## Screenshots
 
 ### Start Screen
-![Start Screen](resources/start_screen.png)
+![start_screen](https://github.com/user-attachments/assets/acdf5967-79ac-473f-9d56-08110889ad2c)
+
 
 ### End Screen
-![End Screen](resources/end_screen.png)
+![end_screen](https://github.com/user-attachments/assets/f82bc8a3-477b-47bf-880b-ebedfa825c53)
 
 ## Installation
 
